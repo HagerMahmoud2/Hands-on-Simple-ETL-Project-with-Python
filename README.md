@@ -8,8 +8,9 @@ Python: Programming language for implementing the system.
 
 File Handling: Utilized for reading and writing user information to a CSV file.
 # Functionality
+Extract, Transform and Load (ETL) involves extracting data from various sources with various types (CSV, Xml, Json) , transforming it into a suitable format, and then loading it into a destination database or data warehouse for further analysis.
 ## Extract Data from Files
-he first step in our ETL pipeline is to extract data from the files containing data. We will use the pandas library to read the files into a DataFrame.
+The first step in our ETL pipeline is to extract data from the files containing data. We will use the pandas library to read the files into a DataFrame.
 ## Transform Data
 The next step is to transform the extracted data into the desired format for loading into the Target file . This may involve cleaning the data, handling missing values, and converting data types.
 ## Load Data
