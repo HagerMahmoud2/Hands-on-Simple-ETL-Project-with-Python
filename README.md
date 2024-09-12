@@ -1,7 +1,6 @@
 # Hands-on-Simple-ETL-Project-with-Python
 # Introduction
-The primary goal of this project is to provide a hands-on, practical guide on creating and automating a simple ETL pipeline . Thus, this project hopes to offer a practical way to improve your data engineering skills.
-![etl](https://github.com/user-attachments/assets/f50f740e-3c76-4bd0-937c-060232bf6231)
+The primary goal of this project is to provide a hands-on, practical guide on creating and automating a simple ETL pipeline . Thus, this project hopes to offer a practical way to improve your data engineering skills.![etl](https://github.com/user-attachments/assets/f50f740e-3c76-4bd0-937c-060232bf6231)
 
 # Tools Used
 Python: Programming language for implementing the system.
